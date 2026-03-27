@@ -1,4 +1,4 @@
-# Fun To-Do List
+# To-Do App Vanilla Js
 
 A lightweight, fully client-side to-do list app built with vanilla JavaScript and Bootstrap 5. Tasks are saved to `localStorage` so they survive page refreshes without any backend.
 
